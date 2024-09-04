@@ -1,3 +1,11 @@
+- name: ChoreQuest
+  description: Decent description of the app
+  image: projects/placeholder.png
+  url: https://www.google.com
+  github: https://github.com/miaxoc/chorequest-personal
+  online: true
+
+
 - name: Longest Word Game
   description: Decent description of the app
   image: projects/placeholder.png
