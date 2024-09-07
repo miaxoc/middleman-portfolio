@@ -2,8 +2,11 @@
   <div class="introduction d-flex justify-content-center" style="width: 80%;">
     <%= image_tag 'profile-image.jpg', alt: "profile photo", class: 'avatar-pic', style: 'margin-right: 72px;' %>
     <div class="introduction-text">
-      <p>github          linkedin</p>
-      <h1>Hi, I'm <span class="purple-text">Mia</span>!</h1>
+      <div class="socials d-flex" style="margin-bottom: 24px;">
+        <%= link_to '', 'https://github.com/miaxoc', class: "fa-brands fa-github text-decoration-none", style:"margin-right: 32px; font-size: 24px; color: #771CFF;", target:"_blank"%>
+        <%= link_to '', 'https://www.linkedin.com/in/mia-o-connell/', class: "fa-brands fa-linkedin text-decoration-none", style:"font-size: 24px; color: #771CFF;", target:"_blank" %>
+      </div>
+      <h1>👋 Hi, I'm <span class="purple-text">Mia</span>!</h1>
       <p>A <span class="purple-text">full-stack developer</span> based in Tokyo</p>
       <div class="skills-section">
         <h2>Skills:</h2>

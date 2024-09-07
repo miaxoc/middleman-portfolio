@@ -1,8 +1,37 @@
 - name: ChoreQuest
+  description: "ChoreQuest was my final group project at Le wagon. We created this app in 2 weeks with 3 other developers.</br></br>
+It is a chores sharing app which distributes chores equally amongst house-mates.  Users can see each others’ progress through gamification and users can upload a photo of their chores once completed."
+  image: projects/portfolio-chorequest.jpg
+  url: https://www.google.com
+  github: https://github.com/miaxoc/my-chorequest
+  online: true
+
+- name: Cocktail Library
+  description: "Cocktail Library is a web app which allows users to upload cocktail recipes with their ingredients and dosages.</br>Users can also add an image along with their recipe."
+  image: projects/portfolio-cocktail.png
+  url: https://www.google.com
+  github: https://github.com/miaxoc/rails-cocktail-list
+  online: true
+
+- name: Movie Watchlist
   description: Decent description of the app
   image: projects/placeholder.png
   url: https://www.google.com
-  github: https://github.com/miaxoc/chorequest-personal
+  github: https://github.com/miaxoc/rails-watch-list
+  online: true
+
+- name: Costrade
+  description: Decent description of the app
+  image: projects/placeholder.png
+  url: https://www.google.com
+  github: https://github.com/miaxoc/costrade
+  online: true
+
+- name: Airbnb
+  description: Decent description of the app
+  image: projects/placeholder.png
+  url: https://www.google.com
+  github: https://github.com/miaxoc/rails-simple-airbnb
   online: true
 
 
@@ -13,26 +42,6 @@
   github: https://www.github.com
   online: true
 
-- name: Movie Watchlist
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
-  github: https://www.github.com
-  online: true
-
-- name: Airbnb
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
-  github: https://www.github.com
-  online: true
-
-- name: Final project
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
-  github: https://www.github.com
-  online: true
 
 - name: Yelp
   description: Decent description of the app
