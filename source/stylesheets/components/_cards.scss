@@ -1,5 +1,6 @@
 .projects {
 
+
   h1 {
     font-size: 60px;
     font-weight: 700;
@@ -11,8 +12,10 @@
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-gap: 16px;
-    padding-bottom: 40px;
+    padding: 40px;
     border-bottom: 2px #DAC1FF solid;
+    background-color: #DAC1FF;
+    border-radius: 32px;
   }
 
   .card-product {
